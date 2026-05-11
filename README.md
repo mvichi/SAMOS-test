@@ -1,2 +1,2 @@
 # SAMOS-test
-To be removed
+This repository belongs to Marcello Vichi
